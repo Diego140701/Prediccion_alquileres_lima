@@ -1,0 +1,7 @@
+selenium>=4.6
+beautifulsoup4
+pandas
+openpyxl
+numpy
+scikit-learn>=1.2
+matplotlib
